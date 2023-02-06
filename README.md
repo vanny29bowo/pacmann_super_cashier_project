@@ -1,7 +1,7 @@
 # Pacmann_Super_Cashier_Project
 
 ## Background
-This project contained a self-service cashier system that was built from Python Code to assist Users' experience in buying products from the store, such as listing down the product that was picked, validating the items that are listed, and calculating the price.
+In order to easier shopping experience both for Customer Seller as a Merchant, sparked ideas to design and create the self cashier system that was built from Python Code to assist Customer to do some several task such as picking products to cart, listing down the product, validating the items that are listed, and calculating the price of items.
 
 ## Objective
 The self-service cashier system project has the objective and functionality that elaborate into several parts, as below :
@@ -66,4 +66,4 @@ The documents code on this project containing two files, the first one is cashie
 The detail result of test can be checked on this [notebook document](https://github.com/vanny29bowo/pacmann_super_cashier_project/blob/master/main.ipynb).
 
 ## Conclusion
-
+This project contained a self-service cashier system that was built from Python Code to assist Users' experience in buying products from the store, such as listing down the product that was picked, validating the items that are listed, and calculating the price.
