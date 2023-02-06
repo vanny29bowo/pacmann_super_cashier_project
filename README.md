@@ -63,7 +63,7 @@ The documents code on this project containing two files, the first one is cashie
 ![image](https://user-images.githubusercontent.com/46970478/216855663-2b33ad61-d3e1-45b9-9c5f-3dd99d62f280.png)
 
 ## Result of Test
-The detail result of test can be checked on this [notebook document](https://github.com/vanny29bowo/super_cashier_project/blob/master/main.ipynb).
+The detail result of test can be checked on this [notebook document](https://github.com/vanny29bowo/pacmann_super_cashier_project/blob/master/main.ipynb).
 
 ## Conclusion
 
