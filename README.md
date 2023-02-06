@@ -67,3 +67,6 @@ The detail result of test can be checked on this [notebook document](https://git
 
 ## Conclusion
 This project contained a self-service cashier system that was built from Python Code to assist Users' experience in buying products from the store, such as listing down the product that was picked, validating the items that are listed, and calculating the price.
+
+## Future Work
+To further development on this system, maybe the system can be added features to detect the product already expired or not, or advance validating the product original or imitation. 
