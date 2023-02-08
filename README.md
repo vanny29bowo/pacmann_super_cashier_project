@@ -21,7 +21,7 @@ The self-service cashier system project has the objective and functionality that
 
 
 ## Detail of Code File
-The documents code on this project containing two files, the first one is cashier.py, the main code in scripted form and become module on the file test, and the second one is file main.ipynb that become test code on Notebook file.
+The documents code on this project containing two files, the first one is cashier.py, the main code in scripted form and become module on the file test, and the second one is file main_.ipynb that become test code on Notebook file.
 
  
  ## Flowcharts
